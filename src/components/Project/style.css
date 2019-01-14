@@ -1,0 +1,32 @@
+.singleProj-container{
+    display: flex;
+    background-color:#e8e6e3;
+    flex-direction: column;
+    margin: 2% 2%;
+    width: 15%;
+    height: 90%;
+    align-items: center;
+}
+
+.singleProj-container a{
+    color: #474747;
+}
+
+.singleProj-container img{
+    margin-top: 2%;
+    height: 250px;
+    width: auto;
+    max-width: 90%;
+    max-height: 90%;
+}
+
+.singleProj-container .projInfo{
+    margin: 5%;
+    height: 10%;
+}
+
+@media (max-width: 800px){
+    .singleProj-container{
+        width: 90%;
+    }
+}
