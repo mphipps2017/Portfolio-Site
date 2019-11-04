@@ -1,0 +1,23 @@
+<svg width="112" height="103" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g stroke="null">
+  <title>background</title>
+  <rect x="-1" y="-1" width="114" height="105" id="canvas_background" fill="#d36582" stroke="null"/>
+  <g id="canvasGrid" display="none" stroke="null">
+   <rect id="svg_1" width="100%" height="100%" x="0" y="0" stroke-width="0" fill="url(#gridpattern)" stroke="null"/>
+  </g>
+ </g>
+ <g stroke="null">
+  <title>Layer 1</title>
+  <ellipse fill="#48a9a6" cx="57.000128" cy="14.091005" id="svg_2" rx="11.5" ry="12.499999" stroke="#000"/>
+  <ellipse fill="#48a9a6" cx="99.000128" cy="50.091005" id="svg_3" rx="11.5" ry="12.499999" stroke="#000"/>
+  <ellipse fill="#48a9a6" cx="14.000128" cy="50.091005" id="svg_4" rx="11.5" ry="12.499999" stroke="#000"/>
+  <ellipse fill="#48a9a6" cx="56.000128" cy="89.091005" id="svg_5" rx="11.5" ry="12.499999" stroke="#000"/>
+  <ellipse fill="#48a9a6" cx="29.000128" cy="76.091006" id="svg_7" rx="3" ry="3.5" stroke="#000"/>
+  <ellipse fill="#48a9a6" cx="30.000128" cy="24.091006" id="svg_8" rx="3" ry="3.5" stroke="#000"/>
+  <ellipse fill="#48a9a6" cx="84.000128" cy="76.091006" id="svg_10" rx="3" ry="3.5" stroke="#000"/>
+  <ellipse fill="#48a9a6" cx="83.000128" cy="25.091006" id="svg_11" rx="3" ry="3.5" stroke="#000"/>
+  <text fill="#e4dfda" stroke-width="0" stroke-opacity="null" x="48.804468" y="58.644728" id="svg_12" font-size="24" font-family="'Trebuchet MS', Gadget, sans-serif" text-anchor="start" xml:space="preserve" stroke="#000" font-weight="normal" font-style="normal">G</text>
+ </g>
+</svg>

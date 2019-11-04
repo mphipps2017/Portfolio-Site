@@ -27,17 +27,17 @@ class Home extends React.Component {
                     <div className="about-me">
                         <h2>A Little About Me</h2>
                         <p>My name is Matthew Phipps. I am a Computer Engineering major at Iowa State
-                        University, currently pursuing my 4th semester.  When not in school, you can commonly
+                        University, currently pursuing my 6th semester.  When not in school, you can commonly
                         find me working on my latest website, studying chinese, or playing guitar.</p>
                         {this.renderRedirect()}
                         <button onClick={this.handleClick}>More About Me</button>
                     </div>
                     <div className="current">
                         <h2>Current Work and Projects</h2>
-                        <p>Budgeting Website</p>
-                        <p>Robotics Club/ Exoskeleton</p>
-                        <p>Tutoring</p>
-                        <a href={process.env.PUBLIC_URL + '/Resume.pdf'}>Check out my Resume</a>
+                        <p>TODO App</p>
+                        <p>IEEE 4 Year Planner</p>
+                        <p>Chinese Language Club</p>
+                        <a href={'https://docs.google.com/document/d/1sMM6LWRl5mQvP4A97-UamPCMjO13QN7P4pUqvQsoEdM/edit?usp=sharing'}>Check out my Resume</a>
                     </div>
                 </div>
             </div>
