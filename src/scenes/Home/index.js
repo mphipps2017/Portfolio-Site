@@ -36,7 +36,7 @@ class Home extends React.Component {
                         <h2>Current Work and Projects</h2>
                         <p>TODO App</p>
                         <p>IEEE 4 Year Planner</p>
-                        <p>Chinese Language Club</p>
+                        <p>MIPS 32 bit Processor</p>
                         <a href={'https://docs.google.com/document/d/1sMM6LWRl5mQvP4A97-UamPCMjO13QN7P4pUqvQsoEdM/edit?usp=sharing'}>Check out my Resume</a>
                     </div>
                 </div>
