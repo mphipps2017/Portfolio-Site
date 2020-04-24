@@ -15,6 +15,9 @@ const Navbar = (props) => {
                 <Link to='/projects'>
                     <div className={"link" + (props.location.pathname === "/projects" ? " active": "")}>Projects</div>
                 </Link>
+                <Link to='/reflections'>
+                    <div className={"link" + (props.location.pathname === "/reflections" ? " active": "")}>Reflections</div>
+                </Link>
             </div>
         </nav>
     );

@@ -1,0 +1,27 @@
+.reflections-page{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+}
+
+.reflections-page .title-wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-bottom: solid;
+    border-width: .01em;
+    border-color: #474747;
+}
+
+.reflections-page .title-wrapper h1{
+    color: #f2af29;
+    font-size: 6em;
+    margin-bottom: 1%;
+}
+
+.reflection-page .reflections-list{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

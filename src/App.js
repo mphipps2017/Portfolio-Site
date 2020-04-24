@@ -4,6 +4,7 @@ import Home from './scenes/Home'
 import Navbar from './components/Navbar/index.js'
 import About from './scenes/About'
 import Projects from './scenes/Projects'
+import Reflections from './scenes/Reflections'
 
 class App extends Component {
   render() {
@@ -16,6 +17,7 @@ class App extends Component {
                 <Route exact path='/' component={Home} />
                 <Route path='/about' component={About} />
                 <Route path='/projects' component={Projects} />
+                <Route path='/reflections' component={Reflections} />
               </Switch>
           </div>
         </HashRouter>
