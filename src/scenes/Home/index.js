@@ -34,9 +34,9 @@ class Home extends React.Component {
                     </div>
                     <div className="current">
                         <h2>Current Work and Projects</h2>
-                        <p>TODO App</p>
+                        <p>Pocket Chef Web App</p>
                         <p>IEEE 4 Year Planner</p>
-                        <p>IMDB Sentiment Classifaction Network</p>
+                        <p>Object Tracking using Reinforcement Learning</p>
                         <a href={'https://docs.google.com/document/d/1sMM6LWRl5mQvP4A97-UamPCMjO13QN7P4pUqvQsoEdM/edit?usp=sharing'}>Check out my Resume</a>
                     </div>
                 </div>

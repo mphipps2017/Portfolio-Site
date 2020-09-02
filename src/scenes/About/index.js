@@ -11,18 +11,19 @@ const About = () => {
                     <div className="text-wrapper">
                         <h2>Professional Development</h2>
                         <p>I am currently pursuing a Bachelor of Science degree in Computer
-                            Engineering with a minor in economics, and I am expected to graduate in 2021.  I have a job
-                            as an Undergraduate tutor.  In my free time I study fullstack development so that one day I will be able 
+                            Engineering with a minor in economics, and I am expected to graduate in May 2021.  
+                            In my free time I study full-stack development and user experience design so that one day I will be able 
                             to create more web apps; in hopes to improve my day to day life, as well
                             as that of others.  The current tools I am learning to use are
-                            React (which was used to make this website), express.js, and mongodb.</p>
+                            React.js (which was used to make this website), express.js,  mongodb, and figma.</p>
                     </div>
                     <div className="smaller-info">
                         <div className="text-wrapper">
                             <h2>Hobbies and Free Time</h2>
-                            <p>In my free time you will commonly find me immersing myself in my hobbies, of which the
-                                largest two are studying Chinese and playing guitar.  I am also a member of
-                                Iowa State’s Robotics Club.</p>
+                            <p>In my free time you will commonly find me immersing myself in my hobbies, which primarily consists of 
+                                cooking, studying Mandarin Chinese, playing guitar, and playing video games.  I am also a board memeber 
+                                of the Iowa State Chinese Language club.
+                            </p>
                         </div>
                         <div className="text-wrapper">
                             <div className="end-wrapper">

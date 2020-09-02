@@ -4,6 +4,7 @@ import Project from '../../components/Project/index.js';
 import LEDc from './ProjectImgs/LEDc.png';
 import TrafficLight from './ProjectImgs/TrafficLight.png';
 import GlidderLogo from './ProjectImgs/GliderLogowitBack.svg';
+import MIPSProcessor from './ProjectImgs/MIPS_Pipeline_Processor.PNG';
 
 const Projects = () => {
     return(
@@ -20,6 +21,8 @@ const Projects = () => {
                 img={TrafficLight} title={'Smart Traffic Light System'}/>
                 <Project link={'https://devpost.com/software/glider'}
                 img={GlidderLogo} title={'Glidder'}/>
+                <Project link={'https://docs.google.com/document/d/1AEKiyJCSXXUksbP0auFJSrPEsZcgjnmad3K6vK2Q0To/edit?usp=sharing'}
+                img={MIPSProcessor} title={'MIPS Pipeline Processor'}/>
             </div>
         </div>
     );
