@@ -11,7 +11,7 @@ const About = () => {
                     <div className="text-wrapper">
                         <h2>Professional Development</h2>
                         <p>I am currently pursuing a Bachelor of Science degree in Computer
-                            Engineering with a minor in economics, and I am expected to graduate in May 2021.  
+                            Engineering with a minor in economics, and am expected to graduate in May 2021.  
                             In my free time I study full-stack development and user experience design so that one day I will be able 
                             to create more web apps; in hopes to improve my day to day life, as well
                             as that of others.  The current tools I am learning to use are
@@ -19,10 +19,11 @@ const About = () => {
                     </div>
                     <div className="smaller-info">
                         <div className="text-wrapper">
-                            <h2>Hobbies and Free Time</h2>
-                            <p>In my free time you will commonly find me immersing myself in my hobbies, which primarily consists of 
-                                cooking, studying Mandarin Chinese, playing guitar, and playing video games.  I am also a board memeber 
-                                of the Iowa State Chinese Language club.
+                            <h2>Career Goals</h2>
+                            <p>My career goals are currently to work full-time while I develop a network of connections 
+                                and a diverse skill set that I can leverage throughout my life.  I hope that this dedication
+                                to improving my own abilities can be of benefit to me, the people I work with, and the
+                                people I work for throughout my life.
                             </p>
                         </div>
                         <div className="text-wrapper">

@@ -11,3 +11,13 @@
     font-size: 1.15em;
     color: #474747;
 }
+
+@media (max-width: 800px){
+    .singleReflection-container{
+        margin-bottom: 5%;
+        margin-top:5%;
+    }
+    .singleReflection-container p{
+        font-size: 1.05em;
+    }
+}
